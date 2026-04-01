@@ -122,11 +122,11 @@ ORDER BY r.review_score;
 ## 📸 Screenshots
 
 ### Power BI Dashboard
-![Power BI Dashboard](C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 171450.png)
+![Dashboard Screenshot](C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 171450.png)
 
 
 ### Tableau Dashboard
-![Tableau Dashboard](C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-04-01 184036.png)
+![Dashboard Screenshot](C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-04-01 184036.png)
 
 
 
