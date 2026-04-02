@@ -127,8 +127,8 @@ ORDER BY r.review_score;
 ### Tableau Dashboard
 ![Dashboard Screenshot](Screenshot%2026-04-01%184036.png)
 
-
-
+### Excel Dashboard
+![Dashboard Screenshot](Screenshot%2026-04-02%104413.png)
 
 ## 🔍 Key Findings
 
