@@ -131,6 +131,7 @@ ORDER BY r.review_score;
 ![Dashboard Screenshot](Screenshot%202026-04-01%20184036.png)
 
 
+
 ## 🔍 Key Findings
 
 1. **Weekday Dominance**: 77% of orders occur on weekdays
